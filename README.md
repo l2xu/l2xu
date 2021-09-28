@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @l2xu, my real name is Lukas
+- 🌱 I’m currently learning java, javascript and all the webdev stuff (html,css,vue,react...)
+- 📫 You can reach me by sending an email to l2xu.business@gmail.com
